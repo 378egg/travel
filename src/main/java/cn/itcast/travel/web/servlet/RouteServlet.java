@@ -144,5 +144,5 @@ public class RouteServlet extends BaseServlet {
         // 3.1添加到favorite中
         favoriteService.add(rid,uid);
     }
-    // 我的收藏
+    // 我的收藏 que
 }
