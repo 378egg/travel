@@ -29,6 +29,7 @@ public class FavoriteServlet extends BaseServlet {
         String cid="";
         String currentPage = request.getParameter("currentPage");
         String cname = request.getParameter("cname");
+        // que
 
         //
         String highPrice = request.getParameter("highPrice");
